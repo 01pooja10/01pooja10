@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 __About Me:__
-I am Pooja Ravi, a 2nd year Computer Science Engineering student at SRM IST (Kattankulathur, Chennai). I am an aspiring Deep Learning Researcher with excellent communication skills, both written and oral. I have published 6 technical blogs in "Medium" via SRM Machine Intelligence Community and Data Science Community. I possess skills ranging from simple Machine Learning tasks to complex Deep Learning problem statements (GANs, seq2seq, Chatbots, CNNs, etc.).
+I am Pooja Ravi, a curious graduate (MScAC) student at the University of Toronto and a 2023-24 Vector Scholar in Artificial Intelligence. I am invested in Computer Vision and the impact it can create in the real world. I’m currently working as a Machine Learning engineer at 16Bit which is an AI start-up company building vision-based solutions using medical imaging data. I am also involved in projects revolving around 3D Vision and Generative AI as part of my coursework in Computational Imaging and ML for healthcare courses at UofT. I am a Deep Learning Researcher with excellent communication skills, both written and oral. I have published 4 research papers for three of which I was the first author.
 
 __Noteworthy projects:__
 - Sketch-to-Shoe - A research project that uses pix2pix GAN to turn sketches of shoes into realistic versions of the same
